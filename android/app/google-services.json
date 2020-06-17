@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938850465440",
+    "firebase_url": "https://coffee-order-ae9f1.firebaseio.com",
+    "project_id": "coffee-order-ae9f1",
+    "storage_bucket": "coffee-order-ae9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938850465440:android:3ea8013c5e39648c2e7bc5",
+        "android_client_info": {
+          "package_name": "com.shivammalluri.coffee_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938850465440-jkqei5bd0uuk64gri8fc9q29kt0d9n9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoMezOqsa2YwyHZN-bRcc_gyXRBU6imw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938850465440-jkqei5bd0uuk64gri8fc9q29kt0d9n9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
